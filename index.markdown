@@ -16,4 +16,10 @@ layout: post
 * Comprehensive cancer care can accumulate to hundreds of thousands of dollars
 * $1,700 to $13,000 for comprehensive braces treatment
 
+---
 
+#### Medical Practice usually involves some type of degree in medical assistance as people’s lives are on the line
+* Degrees in the medical profession need years of college experience
+* The cost for college to obtain a degree in this profession can accumulate thousands of dollars
+
+<img src="image4.jpeg" alt="alt text" width="800" height="400" />
