@@ -4,5 +4,8 @@
 
 layout: post
 ---
+# Context/Overview
 
-## testing
+#### Medical practice is the process that insists medically trained professionals complete procedures in a patient. It is used worldwide to prevent unprofessionalism from using and exploiting people who need medical assistance. Medical Practice offers people comfort in their problems and usually tries to solve anything that is harming them.
+
+<img src="image3.jpg" alt="alt text" width="800"/>
