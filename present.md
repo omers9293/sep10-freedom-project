@@ -1,2 +1,2 @@
-## Present
-### The current technology being used today is safe and efficient. Today, thousands of people a day are saved from our advanced inventions that would've died otherwise. Technology such as blood pressure monitors, glucose monitors, penlights, x-ray machines, and other more help keep us alert and informed.
+# Present
+## The current technology being used today is safe and efficient. Today, thousands of people a day are saved from our advanced inventions that would've died otherwise. Technology such as blood pressure monitors, glucose monitors, penlights, x-ray machines, and other more help keep us alert and informed. 
