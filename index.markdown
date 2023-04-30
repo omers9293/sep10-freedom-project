@@ -4,8 +4,16 @@
 
 layout: post
 ---
+
 # Context/Overview
 
 #### Medical practice is the process that insists medically trained professionals complete procedures in a patient. It is used worldwide to prevent unprofessionalism from using and exploiting people who need medical assistance. Medical Practice offers people comfort in their problems and usually tries to solve anything that is harming them.
 
 <img src="image3.jpg" alt="alt text" width="800"/>
+
+#### Medical Practice is usually expensive to most people which is why people apply for insurance to receive its benefits
+* A 3-day stay at a local hospital can come up to around $30,000
+* Comprehensive cancer care can accumulate to hundreds of thousands of dollars
+* $1,700 to $13,000 for comprehensive braces treatment
+
+
