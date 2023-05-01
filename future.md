@@ -11,13 +11,13 @@
 * The app will give a disclaimer to avoid lawsuits
     * This is a serious topic with health-related ideas. The disclaimer must be given to avoid any trouble
 
- <img src="image6.jpeg" alt="alt text" width="700"/>
+ <img src="image6.jpeg" alt="alt text" width="700" height="400"/>
 * The app will need information about consumers like past pills used, pills being used today, etc. Ask for past family information
 * Developers will continue to stay in touch with consumers to make sure the right pill is being assigned
 * The app will provide a text feature where consumers can talk to actual doctors
     * This is due to consumers needing comfort
 
-    <img src="image5.jpeg" alt="alt text" width="800"/>
+    <img src="image5.jpeg" alt="alt text" width="800" height="400" />
 
 * To test credibility, developers will first test the app and see if the correct pills are being assigned
     * Developers will test it by pretending they need a certain pill and will fill all the information being asked and will test if it is correct or not
