@@ -13,7 +13,7 @@ permalink: /about/
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        The year-long project started with us picking a favorite topic that we would be passionate to research about all year.
+        The year-long project started with us picking a favorite topic (non-tech related) that we would be passionate to research about all year. I ch
       </div>
     </div>
   </div>
