@@ -22,6 +22,8 @@
 * To test credibility, developers will first test the app and see if the correct pills are being assigned
     * Developers will test it by pretending they need a certain pill and will fill all the information being asked and will test if it is correct or not
 
+<body style="background-color:#FFFCF7;">
+
 
 
 

@@ -36,3 +36,5 @@
     * Pros
         * Small device and is easily accessible anywhere
         * Affordable and accessible
+
+        <body style="background-color:#EEF0F2;">

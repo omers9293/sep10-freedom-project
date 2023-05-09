@@ -24,3 +24,4 @@ layout: post
 
 <img src="/sep10-freedom-project/images/image4.jpeg" alt="alt text" width="800" height="400" />
 
+<body style="background-color:#B2DBBF;">

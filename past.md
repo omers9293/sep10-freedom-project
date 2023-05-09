@@ -9,3 +9,5 @@
 
  * Equipment was not advanced and was usually a combination of forceps, knives, scalpels, saws, lancets, needles, which are not efficient. A picture of those tools can be found above.
     * Doctors would usually reuse the same tools with different patients which isn't very sanitary leading to a spread of disease
+
+    <body style="background-color:#F2D1C9;">
