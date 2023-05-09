@@ -13,7 +13,7 @@ permalink: /about/
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        The year-long project started with us picking a favorite topic that we would be passionate to research about all year.
       </div>
     </div>
   </div>
@@ -25,7 +25,7 @@ permalink: /about/
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        The tool that I chose was Jekyll and I chose it over the others for several reasons. One of the reasons I chose it was that I wanted to challenge myself even more so that's why I chose to pick from one of the hard tools there was.
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@ permalink: /about/
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        The skills that I have developed (improved) during this time period were a growth mindset and how to read. I have started to ask for help whenever I'm very confused and have tried everything I can to solve a problem. I’m also starting to become patient with myself for not getting the code results I’m expecting.
       </div>
     </div>
   </div>
