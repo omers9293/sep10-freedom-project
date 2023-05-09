@@ -13,7 +13,7 @@ permalink: /about/
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        The year-long project started with us picking a favorite topic (non-tech related) that we would be passionate to research about all year. I chose Medical Practice, and I would say I'm still happy with my choice. I haven't lost any interest in the medical field. We then learned about 
+        The year-long project started with us picking a favorite topic (non-tech related) that we would be passionate to research about all year. I chose Medical Practice, and I would say I'm still happy with my choice. I haven't lost any interest in the medical field. We then researched about software, and hardware, that already exist in our fields. That was Part A. After that, we brainstromed possible future inventions that could exist in our fields. We learned web design skills and basic fundamentals for us to. build this website at the end.
       </div>
     </div>
   </div>
