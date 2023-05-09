@@ -13,7 +13,7 @@
         * Tells you your blood pressure accurately most of the time
         * Cost-effective most people can afford
 
-<img src="/sep10-freedom-project/images/image9.jpeg" alt="alt text" width="700" height="400"/>
+<img src="/sep10-freedom-project/images/image9.jpeg" alt="alt text" width="700" height="400" id="gf"/>
 
 #### Monitor for glucose management
 * Checks the amount of glucose in your blood
@@ -25,7 +25,7 @@
         * A small device that can be carried around anywhere
         * Isn't time consuming process since it takes a few minutes
         * Is a relatively small device which means it’s accessible
-<img src="/sep10-freedom-project/images/image10.jpeg" alt="alt text" width="700" height="400"/>
+<img src="/sep10-freedom-project/images/image10.jpeg" alt="alt text" width="700" height="400" id="fg"/>
 
 #### Medical penlights
 * Is used to on small body parts to express light
@@ -38,3 +38,13 @@
         * Affordable and accessible
 
         <body style="background-color:#EEF0F2;">
+
+ <style>
+    #fg {
+        border-style: solid;
+    }
+
+    #gf {
+        border-style: solid;
+    }
+    </style>

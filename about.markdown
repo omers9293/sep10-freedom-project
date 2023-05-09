@@ -42,3 +42,5 @@ permalink: /about/
     </div>
   </div>
 </div>
+
+<body style="background-color:#E5CDC8;">

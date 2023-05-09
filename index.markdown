@@ -9,7 +9,7 @@ layout: post
 
 #### Medical practice is the process that insists medically trained professionals complete procedures in a patient. It is used worldwide to prevent unprofessionalism from using and exploiting people who need medical assistance. Medical Practice offers people comfort in their problems and usually tries to solve anything that is harming them.
 
-<img src="/sep10-freedom-project/images/image3.jpg" alt="alt text" width="800"/>
+<img src="/sep10-freedom-project/images/image3.jpg" alt="alt text" width="800" id="bye"/>
 
 #### Medical Practice is usually expensive to most people which is why people apply for insurance to receive its benefits
 * A 3-day stay at a local hospital can come up to around $30,000
@@ -22,6 +22,16 @@ layout: post
 * Degrees in the medical profession need years of college experience
 * The cost for college to obtain a degree in this profession can accumulate thousands of dollars
 
-<img src="/sep10-freedom-project/images/image4.jpeg" alt="alt text" width="800" height="400" />
+<img src="/sep10-freedom-project/images/image4.jpeg" alt="alt text" width="800" height="400" id="hello" />
 
 <body style="background-color:#B2DBBF;">
+
+<style>
+    #hello {
+        border-style: solid;
+    }
+
+    #bye {
+        border-style: solid;
+    }
+    </style>
