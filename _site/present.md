@@ -42,9 +42,14 @@
  <style>
     #fg {
         border-style: solid;
+        height: auto;
+        width: auto;
     }
 
     #gf {
         border-style: solid;
+        height: auto;
+        width: auto;
     }
+
     </style>

@@ -12,9 +12,11 @@
 
     <body style="background-color:#F2D1C9;">
 
-    <style>
+<style>
     #lk {
         border-style: solid;
+        height: auto;
+        width: auto;
     }
 
     </style>
