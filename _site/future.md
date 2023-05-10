@@ -17,7 +17,7 @@
 * The app will provide a text feature where consumers can talk to actual doctors
     * This is due to consumers needing comfort
 
-    <img src="/sep10-freedom-project/images/image5.jpeg" alt="alt text" width="800" height="400" id="gh"/>
+<img src="/sep10-freedom-project/images/image5.jpeg" alt="alt text" width="800" height="400" id="gh"/>
 
 * To test credibility, developers will first test the app and see if the correct pills are being assigned
     * Developers will test it by pretending they need a certain pill and will fill all the information being asked and will test if it is correct or not
