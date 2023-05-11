@@ -39,6 +39,13 @@
 
         <body style="background-color:#EEF0F2;">
 
+
+<img src="/sep10-freedom-project/_site/images/image11.jpeg" alt="alt text" width="700" height="400" id="fg"/>
+
+/sep10-freedom-project/_site/images/image11.jpeg
+
+
+
  <style>
     #fg {
         border-style: solid;
