@@ -2,7 +2,6 @@
 #### The current technology being used today is safe and efficient. Today, thousands of people a day are saved from our advanced inventions that would've died otherwise. Technology such as blood pressure monitors, glucose monitors, penlights, x-ray machines, and other more help keep us alert and informed.
 
 
-<div class="yeh">
 
 ### Below are current inventions
 
@@ -31,9 +30,6 @@
 <img src="/sep10-freedom-project/images/image10.jpeg" alt="alt text" width="700" height="400" id="fg"/>
 
 
-</div>
-
-<div class="nah">
 
 #### Medical penlights
 * Is used to on small body parts to express light
@@ -47,7 +43,6 @@
 
         <body style="background-color:#EEF0F2;">
 
-</div>
 
 <img src="/sep10-freedom-project/images/image11.jpeg" alt="alt text" width="700" height="400" id="fg"/>
 
