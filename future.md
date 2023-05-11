@@ -31,13 +31,13 @@
 <style>
     #gh {
         border-style: solid;
-        height: auto;
+       
         width: auto;
     }
 
     #hg {
         border-style: solid;
-        height: auto;
+
         width: auto;
     }
     </style>
