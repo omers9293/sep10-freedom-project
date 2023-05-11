@@ -66,11 +66,11 @@
     }
 
 
-.yeh {
+/* .yeh {
         font-family: monospace;
     }
 
     .nah {
         font-family: Garamond;
-    }
+    } */
     </style>
