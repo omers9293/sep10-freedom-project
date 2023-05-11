@@ -1,6 +1,7 @@
 # Past
 #### In the past, medical professions we not as safe as they are today for several reasons. One of the reasons was that humans were less technologically advanced than they are today.
 <div class="yeh">
+
 #### Medical practice wasn't efficent
 * People did not have secure and open access to real doctors due to it's expense problem
     * Since people didn't have the access to the professionals, they had to rely on people who didn't know what they were doing
@@ -16,6 +17,7 @@
 #### Medical practice was expensive
 * The education/training that doctors need to go through may make the medical field the hardest and most competitve career that existed. This created a scarcity
     * This created demand on doctors which limited the ability for lower classess of population to be able to afford this basic necessity
+
 </div>
 
 
