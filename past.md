@@ -2,7 +2,7 @@
 #### In the past, medical professions we not as safe as they are today for several reasons. One of the reasons was that humans were less technologically advanced than they are today.
 <div class="yeh">
 
-#### Medical practice wasn't efficent
+#### Medical practice wasn't efficient
 * People did not have secure and open access to real doctors due to it's expense problem
     * Since people didn't have the access to the professionals, they had to rely on people who didn't know what they were doing
 
