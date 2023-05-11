@@ -15,7 +15,9 @@
 <div class="nah">
 
 #### Medical practice was expensive
+
 * The education/training that doctors need to go through may make the medical field the hardest and most competitve career that existed. This created a scarcity
+
     * This created demand on doctors which limited the ability for lower classess of population to be able to afford this basic necessity
 
 </div>
